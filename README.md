@@ -35,7 +35,7 @@ Train the model using noisy images as input and original images as target.
 Visualize and compare original, noisy, and denoised images.
 
 ## PROGRAM
-### Name: AARSHITHA MS
+### Name: ARSHITHA MS
 ### Register Number: 212223240015
 ```
 class DenoisingAutoencoder(nn.Module):
